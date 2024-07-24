@@ -14,6 +14,7 @@ Week-on-Week Revenue Comparison: Conduct week-on-week revenue comparisons to ide
 
 
 SOFTWARE USED
+
 • PostgreSQL
 
 • Power BI
