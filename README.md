@@ -9,3 +9,12 @@ Revenue Analysis by Quarter, Week, and Month: Conduct revenue analysis segmented
 Customer Spending Habits and Card Category Analysis: Explore customer spending behaviors and preferences across different card categories (e.g., gold, platinum) and expenditure types (e.g., bills, entertainment, travel). Analyzing this data provides insights into customer demographics, purchasing preferences, and spending patterns.
 
 Customer Analysis Based on Different Metrics: Analyze revenue based on various customer information metrics such as educational level, job type, and income group.
+
+Week-on-Week Revenue Comparison: Conduct week-on-week revenue comparisons to identify trends, anomalies, and deviations from expected revenue patterns. By analyzing these fluctuations, businesses can detect seasonal trends, promotional effects, and emerging market dynamics. This analysis facilitates proactive decision-making and timely interventions, allowing businesses to capitalize on revenue opportunities or mitigate risks.
+
+
+SOFTWARE USED
+• PostgreSQL
+
+• Power BI
+
